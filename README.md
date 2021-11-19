@@ -10,11 +10,7 @@ I'm currently working at **[@ThinkR-open](https://github.com/ThinkR-open)** as a
 
 `isTRUE(i_love_writing_R_code)`
 
-I also love exploring data and building `{shiny}` web applications.
 
-I like playing with all kind of databases or API's.
-
-###### _maybe I will write more details one day..._
 
 #### Some details about my Github account
 
