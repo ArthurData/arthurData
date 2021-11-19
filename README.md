@@ -1,4 +1,5 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurData&count_private=true&theme=buefy&border_radius=30)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurData&count_private=true&theme=buefy&border_radius=30&hide_border=false&border_color=#FF80ED
+)
 
 ---
 
