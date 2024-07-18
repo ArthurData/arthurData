@@ -1,4 +1,4 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurData&count_private=true&theme=buefy&border_radius=30)
+<a href="https://app.daily.dev/arthurbrant"><img src="https://api.daily.dev/devcards/v2/xDM5u5SvLaHmfrmAk2AUt.png?type=wide&r=r3z" width="652" alt="Arthur Bréant's Dev Card"/></a>
 
 ---
 
